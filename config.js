@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285741857464','6283127014833','6281365814200']
+global.owner = ['6285741857864','6283127014833','6281365814200']
 global.pemilik = ['6283127014833']
 global.premium = ['6281365814200']
 global.pengguna = 'Nama Lu Isi'
